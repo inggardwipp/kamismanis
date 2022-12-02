@@ -1,0 +1,29 @@
+/* CSS HEADER */
+
+#header {
+    background: url(assets-mental-health/header.jpg);
+    min-height: 75vh;
+    background-size: cover;
+}
+
+#new-header {
+    background: url(assets-mental-health/neutron.jpg);
+    min-height: 75vh;
+    background-size: cover;
+}
+
+.box-matter-1 {
+    background: url(assets-mental-health/blue1.jpg);
+    min-height: 400px;
+    background-size: cover;
+}
+
+.box-matter-2 {
+    background: url(assets-mental-health/blue2.jpg);
+    min-height: 400px;
+    background-size: cover;
+}
+
+.box-challenging {
+    height: 150px;
+}
